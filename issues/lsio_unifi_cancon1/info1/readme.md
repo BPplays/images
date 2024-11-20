@@ -139,7 +139,6 @@ services:
       - MONGO_PASS=censored_mango_pass
       - MONGO_PORT=27017
       - MONGO_USER=unifi
-      - MONGO_AUTHSOURCE=admin
       - MEM_LIMIT=1024 #optional
       - MEM_STARTUP=1024 #optional
       # - PUID=1000
