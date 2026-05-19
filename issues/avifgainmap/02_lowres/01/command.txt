@@ -1,0 +1,1 @@
+avifgm .\outside3-v2 tif -thumb_max_size 768 -q 100 -depth 10 -keepTemp
